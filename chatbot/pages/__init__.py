@@ -1,0 +1,1 @@
+# This makes the `pages` folder a Python package.
