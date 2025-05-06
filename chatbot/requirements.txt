@@ -1,0 +1,13 @@
+beautifulsoup4
+requests
+nltk
+spacy
+transformers
+sentence-transformers
+chromadb
+streamlit
+pandas
+numpy
+scikit-learn
+jsonlines
+huggingface-hub
